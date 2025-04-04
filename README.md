@@ -1,0 +1,2 @@
+# DiscordStatusBot
+指定したユーザーがオフラインの時に浮上するBot
